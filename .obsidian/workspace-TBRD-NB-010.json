@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3aa227e2698390b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c1060fdfb50b13",
+        "type": "tabs",
+        "dimension": 43.66754617414248,
+        "children": [
+          {
+            "id": "397f9338588e0c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Markdown 확장 사용법.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "a0b921ec2e92b7d6"
+          },
+          {
+            "id": "209dd0e12ba3bab2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "4b13f9bf4d4318d0"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e4e3e09b5cbf412b",
+        "type": "tabs",
+        "dimension": 56.33245382585752,
+        "children": [
+          {
+            "id": "93b995c801cef3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Markdown 확장 사용법.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "a0b921ec2e92b7d6"
+          },
+          {
+            "id": "62ea80a73ce0df0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. 기존 치료 방법/1. RNA.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "4b13f9bf4d4318d0"
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6bf57eea74df3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c066fea9fd6bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d12f1a2b82fa0937",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9e19bae819ca254",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92760ccd9fc33c61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242
+  },
+  "right": {
+    "id": "0818c72bb9d46f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "529058fdd0730f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce13acd72fee25c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7ba30416faf2189",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "806ae2c128027a48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "123dfd573f08884d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "209dd0e12ba3bab2",
+  "lastOpenFiles": [
+    "Untitsdfdsfled 2.md",
+    "00. 기존 치료 방법/1. RNA.md",
+    "extra_research/QASA_Advanced Question Answering on Scientific Articles(2023).md",
+    "extra_research/QASA_Advanced Question Answering on Scientific Articles(2023) - 복사본.md",
+    "Home/Markdown 확장 사용법.md",
+    "Untitled 1.md",
+    "Home/Deprx 및 VitatalTracker  연구.md",
+    "Untitled.md",
+    "00. 기존 치료 방법/정신 질환 기존 치료 방법.md",
+    "00. 기존 치료 방법.zip",
+    "template.md",
+    "extra_research",
+    "00. 기존 치료 방법/3. 기구.md",
+    "00. 기존 치료 방법/2. 약물.md",
+    "Untitled/Untitled.canvas",
+    "00. 기존 치료 방법",
+    "1.Paper/3.DL/(2022)Predicting future sedentary behaviour using wearable and mobile devices.md",
+    "1.Paper/3.DL/(2023)Personalized Multi-task Attention for Multi-modal Mental Health Detection and Explanation.md",
+    "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
+    "0.Dataset/(2014)StudentLife.md",
+    "1.Paper/2.ML/(2020)Evaluating depression with multimodal wristband-type wearable device screening and assessing patient severity utilizing machine-learning.md",
+    "1.Paper/2.ML/(2020)STDD_ Short-Term Depression Detection with Passive Sensing.md",
+    "1.Paper/2.ML/(2024)-AnExamination of Mental Stress in College Students Utilizing.md",
+    "1.Paper/2.ML/(2020)Monitoring Changes in Depression Severity Using Wearable and Mobile Sensors.md",
+    "Obsidian Vault.zip",
+    "1.Paper/1.통계모델/(2021)Predicting Symptoms of Depression and Anxiety Using Smartphone and Wearable Data.md",
+    "0.Dataset/자체 데이터.md",
+    "1.Paper/1.통계모델/(2021)Toward a mobile platform for real-world digital measurement of depression user-centric design, data quality, and behavioral and clinical modeling.md",
+    "0.Dataset/(2022)K-EmoPhone.md",
+    "1.Paper/2.ML/(2020)Unobtrusive monitoring of behavior and movement patterns to detect clinical depression severity level via smartphone.md",
+    "1.Paper/(2023)The usability of daytime and night-time heart rate dynamics as digital biomarkers of depression severity.md",
+    "1.Paper/3.DL",
+    "1.Paper/2.ML",
+    "1.Paper/1.통계모델",
+    "Excalidraw",
+    "1.Paper",
+    "Home"
+  ]
+}

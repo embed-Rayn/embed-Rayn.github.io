@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:0.Dataset  ",
+      "color": {
+        "a": 1,
+        "rgb": 15077135
+      }
+    },
+    {
+      "query": "file:Test",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path: 1.Paper/1.상관분석  ",
+      "color": {
+        "a": 1,
+        "rgb": 7105459
+      }
+    },
+    {
+      "query": "path: 1.Paper/2.ML  ",
+      "color": {
+        "a": 1,
+        "rgb": 4804595
+      }
+    },
+    {
+      "query": "path: 1.Paper/3.DL  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path: Home  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "path: \"00. 기존 치료 방법\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13495851
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 4.30484429065744,
+  "lineSizeMultiplier": 3.27058823529412,
+  "collapse-forces": false,
+  "centerStrength": 0.396193771626298,
+  "repelStrength": 20,
+  "linkStrength": 0.707612456747405,
+  "linkDistance": 500,
+  "scale": 0.5087618855792637,
+  "close": false
+}

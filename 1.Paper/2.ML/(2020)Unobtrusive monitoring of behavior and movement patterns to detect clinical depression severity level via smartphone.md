@@ -1,0 +1,13 @@
+제목:  
+[PDF_LINK](https://pdf.sciencedirectassets.com/272371/1-s2.0-S1532046420X00025/1-s2.0-S1532046419302916/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED8aCXVzLWVhc3QtMSJHMEUCIAp47H3wd0EE3fo3jVUOGPgo1uiNCgRqVmKg3TjMzJtBAiEA%2B1Kc6UcbQDGrJV7PBwbGx4ybmObw6pc8lQvEdEFrrWEqvAUI5%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDCWFWUnPFe57mfqxoyqQBd5ERiThJd3wTVTVL1Ktt37605EF8lZbCcVK4JUyMtBMGL%2FV3XDKYXjE%2B9zKdcgnbjVarQtftTQrFHkeSIRJjC6co4CdFAgcaC43yQ%2F6eIYxcl3OEdPqsrmARkfUeVIzXgxXuqDUHJyDX2fz4Gw6v2j%2BALa4jXcT%2FdcQUdWhKzJvNv2Ipv4ptNZ4J6K3aoqikjM4OMyi4oLgPx%2BE9V6PvGCzi7m%2BRP7kqANIX1Fn%2FA4LhW79smuvpxBHt5kQmhL8PrlLCQpr%2FJas7xyspwD0EtMzchmNRoCkz9Z2LyheXFXPu5dRUGEky12cFQlabWcwFSxLdHXEC9MFOnWJ5pknuDeZqXUmJKCBpql5SzrGeZAy8m1a2qmQPUDKE9PTegHP1AK8qB4JjyMslHugqFiJj5300pH7C2YIsr3rtoPGwUzOa0Dx07B%2B6fuxt1vTKUogRfyAZ9JxGuOKXsizv2QEiWQ94MPqgN5UqAWNcHopp%2BgPTtPheZWXfDTxRZV7qXjgL1vwvzDFxCGt2uSz4MQjHd6mGPfw8YXxmkTCfAdge6RaEipQz9xBOgUiG8YQ4ZQ3O%2BDdRi36HOFoUZlEBa3V5txPWIx9v8m9S1xSFQM8i0830Q8oTYujOwYsx1wyooSjip1oYgr5eoDpK405rRB3gkKC7X6i4gHF2VL9mvmwqD%2FaJYSLwLHfO%2BNDZfvqFk%2Fg%2FMv2pNx0tL3%2FdD8qa2oAG3O5jA1ybX0HNfMSDKo7c2wuPZFepYMIki%2FFkoOep175tVVCRQ8Hmzhmwxd7fgHsA%2FZ5%2BT9QkIeZ28wbG90GpxYxBRSUiGWS%2FsiPVlFhbJgouhvo%2FxBg0NHbZFXU7Qfy7jvZSRgqTdmv229ludJIQu0LMMaI9LMGOrEByf%2FbQfHNfego1O6zl1lOtIkBuYV8nd%2FuY8gqYU3flp7ooCK1qc%2BHt22OnRUEHl%2F08uceFgAzP7uU5xnhuC5WA0xCRHsPNyjmp5jc4VzEwjgiYtEEbgRp1XWVq0e0zm7ZfvGKyTIlRsb6q8Snear5%2FycLLaa%2B5g7I3UYD32txCYwTjDwZL9bSvQd2HOxj%2BPb8MxcANHEgAHwo4dFmfiRFyhZTt6v07D1x3bwSaLfdYpKx&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240627T073620Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7CEM2O6B%2F20240627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c08d2c5f105a7a456a667815df0f4b7c970f8b144bb27135ff28f2255e3b8f4f&hash=31ef02d7707146c297633a416ce3571f022daeb92a151c7f509fd02c4670efa4&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1532046419302916&tid=spdf-41dc0151-2d2f-4f34-9688-b53cca2bea85&sid=1042508119ef7945104b0639b469e475b247gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=09145c5e06550c5403&rr=89a3c3f89f208b58&cc=kr)
+
+저자:  MT Masud, MA Mamun, K Thapa, DH Lee, MD Griffiths, SH Yang
+출판사: Journal of biomedical informatics, 2020•Elsevier
+
+데이터: [[자체 데이터]]
+모델: SVM
+
+- 목적: 우울증 수준을 평가하기 위해 스마트폰 가속도 센서에서 시간 영역 특성을 사용하고, 지리적 위치 정보를 클러스터링하여 이동 패턴을 단순화합니다.
+- 방법: 총 12가지 특성을 추출하여 개인의 신체 활동과 이동 패턴을 분석하고, 이를 환자 건강 설문지의 주간 우울증 점수와 함께 분석합니다.
+- 결과: 서포트 벡터 머신 알고리즘을 사용하여 우울증의 심각성 수준(없음, 중간, 심각)을 분류하였으며, 심각한 우울증 사례에서 87.2%의 정확도를 달성했습니다.
+- 한계점: 연구는 자가 보고식 설문지(PHQ-9)를 사용하여 우울증을 평가했으며, 임상 평가가 아닌 것이 한계점입니다. 또한, 스마트폰을 항상 휴대하지 않는 경우도 있어 위치 정보의 정확도에 영향을 줄 수 있습니다.
