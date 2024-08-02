@@ -1,0 +1,39 @@
+#baseURL = 'https://embed-rayn.github.io/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site_test'
+
+baseURL = "https://embed-rayn.github.io/" # 블로그 경로
+languageCode = "ko-kr" # 사용 언어
+title = "paper review" # 웹 페이지 타이틀
+theme = "github-style" # 테마
+#googleAnalytics = "UA-123456-789"
+#pygmentsCodeFences = true
+#pygmentsUseClasses = true
+
+[params]
+  [params.author]  
+    name = "bjpark" # 이름
+    description = "Hi my name is byeongjun park. My interest is AI." # 자기 소개
+    github = "embed-Rayn" # github 계정명
+#  linkedin = "yongckim" # linked in 계정명
+  email = "qwe1443@gmail.com" #이메일
+  url = "https://embed-rayn.github.io/" # 사이트 주소
+  keywords = "paper, review, AI" 
+#  rss = true
+  lastmod = true
+  userStatusEmoji = "😀" # 프로필사진 옆 이모지
+  favicon = "/images/github.png" # 파비콘설정
+  avatar = "/images/avatar.png" # 프로필 사진 설정
+  location = "Korea" # 현재 위치 설정
+
+  [[params.links]]
+    title = "algorithm" # organization link
+    href = "https://www.acmicpc.net/user/zxcv9203"
+		icon = "https://zxcv9203.github.io/images/boj.png"
+#  [[params.links]]  하단 아이콘 링크 추가
+#    title = "Link2"
+#    href = "https://yongckim.github.io/"
+#   	icon = "https://zxcv9203.github.io/images/avatar.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

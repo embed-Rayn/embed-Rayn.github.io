@@ -1,0 +1,34 @@
+baseURL = "https://embed-rayn.github.io" # 블로그 경로
+languageCode = "ko-kr" # 사용 언어
+title = "Ryan's blog" # 웹 페이지 타이틀
+theme = "github-style" # 테마
+#googleAnalytics = "UA-123456-789"
+#pygmentsCodeFences = true
+#pygmentsUseClasses = true
+
+[params]
+  author = "ByeongJun Park" # 이름
+  description = "42 cadet" # 자기 소개
+  github = "embed-rayn" # github 계정명
+#  linkedin = "-----" # linked in 계정명
+  email = "qwe1443@gmail.com" #이메일
+  url = "https://embed-rayn.github.io" # 사이트 주소
+  keywords = "AI, Vision, NLP" 
+#  rss = true
+  lastmod = true
+  userStatusEmoji = "😀" # 프로필사진 옆 이모지
+  favicon = "/images/github.png" # 파비콘설정
+  avatar = "/images/avatar.png" # 프로필 사진 설정
+  location = "Korea" # 현재 위치 설정
+
+  [[params.links]]
+    title = "company" # organization link
+    href = "http://www.turingbio.com/"
+		icon = "http://www.turingbio.com/wp-content/uploads/2020/12/TURINGBIO_LOGO_075-e1609731207762.png"
+#  [[params.links]]  하단 아이콘 링크 추가
+#    title = "Link2"
+#    href = "https://yongckim.github.io/"
+#   	icon = "https://zxcv9203.github.io/images/avatar.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
