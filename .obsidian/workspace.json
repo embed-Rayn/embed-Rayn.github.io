@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Dataset/(2022)K-EmoPhone.md",
+                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Dataset/(2022)K-EmoPhone.md",
+                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Dataset/(2022)K-EmoPhone.md",
+                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Dataset/(2022)K-EmoPhone.md"
+                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md"
               }
             }
           }
@@ -163,15 +163,34 @@
   },
   "active": "f65904d0d5088a1b",
   "lastOpenFiles": [
-    "index.html",
-    "새 텍스트 문서.txt",
+    "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md",
+    "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
+    "[.md",
+    "imgs/Post1/t2.png",
+    "imgs/Post1/f5.png",
+    "imgs/Post1/t1.png",
+    "imgs/Post1/f3.png",
+    "imgs/Post1/f4.png",
+    "imgs/Post1/f2.png",
+    "imgs/Post1",
+    "imgs/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study/t2.png",
+    "imgs/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study/t1.png",
+    "imgs/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study/f4.png",
+    "imgs/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study/f5.png",
+    "imgs/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study",
+    "imgs/Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior An Exploratory Study",
+    "imgs/2015/p_img",
+    "imgs/2015",
+    "imgs/새 폴더",
+    "imgs",
+    "새 폴더",
+    "extra_research/브이엔코 사업아이템 분석.md",
+    "0.Dataset/(2022)K-EmoPhone.md",
+    "etc",
+    "github_blog",
     "etc/Untitled.md",
     "etc/Untitled 1.md",
     "etc/template.md",
-    "etc",
-    "새 폴더",
-    "Obsidian_onedrive",
-    "github_blog",
     "1.Paper/2.ML/(2024)-AnExamination of Mental Stress in College Students Utilizing.md",
     "1.Paper/3.DL/(2022)Predicting future sedentary behaviour using wearable and mobile devices.md",
     "1.Paper/2.ML/(2023)Improving Depression Severity Prediction from Passive Sensing Symptom-Profiling Approach.md",
@@ -182,8 +201,6 @@
     "1.Paper/1.통계모델/(2023)A smartphone- and wearable-based biomarker for the estimation of unipolar depression severity.md",
     "1.Paper/1.통계모델/(2021)Toward a mobile platform for real-world digital measurement of depression user-centric design, data quality, and behavioral and clinical modeling.md",
     "1.Paper/1.통계모델/(2021)Predicting Symptoms of Depression and Anxiety Using Smartphone and Wearable Data.md",
-    "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
-    "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md",
     "1.Paper/3.DL/(2023)Personalized Multi-task Attention for Multi-modal Mental Health Detection and Explanation.md",
     "Home/Deprx 및 VitatalTracker  연구.md",
     "00. 기존 치료 방법/정신 질환 기존 치료 방법.md",
@@ -192,13 +209,6 @@
     "0.Dataset/자체 데이터.md",
     "Home/Markdown 확장 사용법.md",
     "Untitsdfdsfled 2.md",
-    "extra_research/QASA_Advanced Question Answering on Scientific Articles(2023) - 복사본.md",
-    "Untitled 1.md",
-    "00. 기존 치료 방법.zip",
-    "extra_research",
-    "Untitled/Untitled.canvas",
-    "00. 기존 치료 방법",
-    "Obsidian Vault.zip",
-    "1.Paper/3.DL"
+    "Untitled/Untitled.canvas"
   ]
 }
