@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Paper/3.DL/(2022)Predicting future sedentary behaviour using wearable and mobile devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f65904d0d5088a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
+                "file": "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
+                "file": "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
+                "file": "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md"
+                "file": "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md"
               }
             }
           }
@@ -161,11 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f65904d0d5088a1b",
+  "active": "e1a72a740093ff7b",
   "lastOpenFiles": [
+    "[.md",
     "1.Paper/1.통계모델/(2020)Passive Sensing of Prediction of Moment-To-Moment Depressed Mood among Undergraduates with Clinical Levels of Depression Sample Using Smartphones.md",
     "1.Paper/1.통계모델/(2015)Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior_ An Exploratory Study.md",
-    "[.md",
+    "1.Paper/3.DL/(2022)Predicting future sedentary behaviour using wearable and mobile devices.md",
     "imgs/Post1/t2.png",
     "imgs/Post1/f5.png",
     "imgs/Post1/t1.png",
@@ -192,7 +180,6 @@
     "etc/Untitled 1.md",
     "etc/template.md",
     "1.Paper/2.ML/(2024)-AnExamination of Mental Stress in College Students Utilizing.md",
-    "1.Paper/3.DL/(2022)Predicting future sedentary behaviour using wearable and mobile devices.md",
     "1.Paper/2.ML/(2023)Improving Depression Severity Prediction from Passive Sensing Symptom-Profiling Approach.md",
     "1.Paper/2.ML/(2020)Unobtrusive monitoring of behavior and movement patterns to detect clinical depression severity level via smartphone.md",
     "1.Paper/2.ML/(2020)STDD_ Short-Term Depression Detection with Passive Sensing.md",
